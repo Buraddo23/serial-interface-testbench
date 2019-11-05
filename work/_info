@@ -1,0 +1,416 @@
+m255
+K4
+z2
+13
+cModel Technology
+Z0 d/home/vlads/Work/sif
+!i10d 8192
+!i10e 25
+!i10f 100
+T_opt
+VCjj4I_]BG=ngG1E6LjRz@0
+Z1 04 3 4 work top fast 0
+=1-d4bed9cfe4b9-5d5aa6f2-5466a-1468
+Z2 o-quiet -auto_acc_if_foreign -work work
+n@_opt
+Z3 OL;O;10.2b;57
+Z4 d/home/vlads/Work/sif
+!s110 1566222066
+T_opt1
+VBCl3`5l3i<[4aJM1Xhj8@2
+R1
+=1-d4bed9cfe4b9-5d5beaad-394c5-28ae
+R2
+n@_opt1
+R3
+R4
+!s110 1566304941
+T_opt2
+Vc@0j3cf0<aO^zAci[z[ao2
+R1
+=1-d4bed9cfe4b9-5d5d2925-c42e5-7806
+R2
+n@_opt2
+R3
+R4
+!s110 1566386470
+T_opt3
+V7ZlY`2Wc=ePW>D2aOGi>]2
+R1
+=1-d4bed9cfe4b9-5d5e76f6-90506-27fa
+R2
+n@_opt3
+R3
+R4
+!s110 1566471926
+vassertion_ip
+Z5 DXx6 sv_std 3 std 0 22 `a<MJET1=lN@jzbA7kHm;1
+Z6 DXx6 mtiUvm 7 uvm_pkg 0 22 6c<UYR5cbJC8ZT=63Rnh52
+DXx4 work 7 sif_pkg 0 22 64E[YSzU=?IlL;HlPYoFU3
+DXx4 work 11 top_sv_unit 0 22 :ICBHkazZ>Qez_0K`G94S0
+Z7 V`JN@9S9cnhjKRR_L]QIcM3
+r1
+31
+I;]>Z`9kn]cd8nOzRm3l8i1
+Z8 !s105 top_sv_unit
+S1
+R4
+w1566375679
+Fassertion_ip.sv
+Z9 8top.sv
+Z10 Ftop.sv
+L0 1
+Z11 OL;L;10.2b;57
+Z12 !s90 -reportprogress|300|-f|tb.f|
+Z13 o-L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+Z14 !s92 +incdir+tb_classes -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!s108 1566375688.682244
+!s107 binding_module.sv|assertion_ip.sv|sif_macros.svh|tb_classes/sif_test.svh|tb_classes/env.svh|tb_classes/ref_mem.svh|tb_classes/scoreboard.svh|tb_classes/sif_agent.svh|tb_classes/slave_with_memory.svh|tb_classes/wbus_monitor.svh|tb_classes/xbus_monitor.svh|tb_classes/sif_monitor.svh|tb_classes/sif_driver.svh|tb_classes/random_sequence.svh|tb_classes/sif_seq_item.svh|tb_classes/env_config.svh|tb_classes/sif_agent_config.svh|tb_classes/sif_monitor_config.svh|/home/vlad/tools/eda/mentor/questasim-10.2b_x64/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_deprecated_defines.svh|/home/vlad/tools/eda/mentor/questasim-10.2b_x64/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_reg_defines.svh|/home/vlad/tools/eda/mentor/questasim-10.2b_x64/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_callback_defines.svh|/home/vlad/tools/eda/mentor/questasim-10.2b_x64/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_sequence_defines.svh|/home/vlad/tools/eda/mentor/questasim-10.2b_x64/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/tlm1/uvm_tlm_imps.svh|/home/vlad/tools/eda/mentor/questasim-10.2b_x64/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_tlm_defines.svh|/home/vlad/tools/eda/mentor/questasim-10.2b_x64/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_printer_defines.svh|/home/vlad/tools/eda/mentor/questasim-10.2b_x64/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_object_defines.svh|/home/vlad/tools/eda/mentor/questasim-10.2b_x64/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_phase_defines.svh|/home/vlad/tools/eda/mentor/questasim-10.2b_x64/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_message_defines.svh|/home/vlad/tools/eda/mentor/questasim-10.2b_x64/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_version_defines.svh|/home/vlad/tools/eda/mentor/questasim-10.2b_x64/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/uvm_macros.svh|top.sv|sif_bfm.sv|sif_pkg.sv|
+!s100 8:R4J2<4=8ea>`NYmVKe<0
+!s85 0
+!i10b 1
+!i111 0
+vbinding_module
+R5
+R6
+Z15 DXx4 work 7 sif_pkg 0 22 ia21726C>iKeZ6C@48mX<1
+Z16 DXx4 work 11 top_sv_unit 0 22 l_G2I>0Ph3A[B`T^=P]]a0
+R7
+r1
+31
+IWU:6V<gc70Lkf9LS9WCJd0
+R8
+S1
+R4
+Z17 w1566992480
+Z18 Fbinding_module.sv
+R9
+R10
+Z19 F/home/vlad/tools/eda/mentor/questasim-10.2b_x64/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/uvm_macros.svh
+L0 1
+R11
+Z20 !s108 1566992546.497438
+Z21 !s107 binding_module.sv|sif_macros.svh|tb_classes/sif_test.svh|tb_classes/env.svh|tb_classes/ref_mem.svh|tb_classes/coverage.svh|tb_classes/scoreboard.svh|tb_classes/sif_agent.svh|tb_classes/slave_with_memory.svh|tb_classes/wbus_monitor.svh|tb_classes/xbus_monitor.svh|tb_classes/sif_monitor.svh|tb_classes/sif_driver.svh|tb_classes/random_sequence.svh|tb_classes/sif_seq_item.svh|tb_classes/env_config.svh|tb_classes/sif_agent_config.svh|tb_classes/sif_monitor_config.svh|/home/vlad/tools/eda/mentor/questasim-10.2b_x64/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_deprecated_defines.svh|/home/vlad/tools/eda/mentor/questasim-10.2b_x64/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_reg_defines.svh|/home/vlad/tools/eda/mentor/questasim-10.2b_x64/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_callback_defines.svh|/home/vlad/tools/eda/mentor/questasim-10.2b_x64/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_sequence_defines.svh|/home/vlad/tools/eda/mentor/questasim-10.2b_x64/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/tlm1/uvm_tlm_imps.svh|/home/vlad/tools/eda/mentor/questasim-10.2b_x64/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_tlm_defines.svh|/home/vlad/tools/eda/mentor/questasim-10.2b_x64/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_printer_defines.svh|/home/vlad/tools/eda/mentor/questasim-10.2b_x64/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_object_defines.svh|/home/vlad/tools/eda/mentor/questasim-10.2b_x64/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_phase_defines.svh|/home/vlad/tools/eda/mentor/questasim-10.2b_x64/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_message_defines.svh|/home/vlad/tools/eda/mentor/questasim-10.2b_x64/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_version_defines.svh|/home/vlad/tools/eda/mentor/questasim-10.2b_x64/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/uvm_macros.svh|top.sv|sif_bfm.sv|sif_pkg.sv|
+Z22 !s90 -reportprogress|300|+cover|+acc|-f|tb.f|
+Z23 !s102 +cover
+Z24 o+cover +acc -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+Z25 !s92 +cover +acc +incdir+tb_classes -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!s85 0
+!s100 <F8k0GK3n_R^ZTdMUiOS53
+!i10b 1
+!i111 0
+vdff16_en
+R7
+r1
+31
+IN_88i[<Adak:BH?i[@Ann2
+R4
+Z26 w1566912391
+Z27 8sif_dut/sif.v
+Z28 Fsif_dut/sif.v
+L0 57
+R11
+Z29 !s108 1566912399.923809
+Z30 !s107 sif_dut/sif.v|
+Z31 !s90 -reportprogress|300|sif_dut/sif.v|
+R13
+!s100 ?8H@<<<NHc3<11m0FFhF@0
+!s85 0
+!i10b 1
+!i111 0
+vdff_en
+R7
+r1
+31
+IkS9RgFo9]j1`AeOzeY;D61
+R4
+R26
+R27
+R28
+L0 45
+R11
+R29
+R30
+R31
+R13
+!s100 lfObOERQG@B<eMfA>?Gd31
+!s85 0
+!i10b 1
+!i111 0
+vdut_top
+R5
+Z32 !s110 1566207052
+I17aVY;R3P7:_=YDclY_D^2
+R7
+S1
+R4
+w1566206927
+8dut_top.sv
+Fdut_top.sv
+L0 1
+R11
+r1
+31
+Z33 !s108 1566207052.089657
+Z34 !s107 sif_macros.svh|tb_classes/sif_test.svh|tb_classes/env.svh|tb_classes/scoreboard.svh|tb_classes/sif_agent.svh|tb_classes/wbus_monitor.svh|tb_classes/xbus_monitor.svh|tb_classes/sif_monitor.svh|tb_classes/sif_driver.svh|tb_classes/random_sequence.svh|tb_classes/sif_seq_item.svh|tb_classes/env_config.svh|tb_classes/sif_agent_config.svh|tb_classes/sif_monitor_config.svh|/home/vlad/tools/eda/mentor/questasim-10.2b_x64/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_deprecated_defines.svh|/home/vlad/tools/eda/mentor/questasim-10.2b_x64/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_reg_defines.svh|/home/vlad/tools/eda/mentor/questasim-10.2b_x64/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_callback_defines.svh|/home/vlad/tools/eda/mentor/questasim-10.2b_x64/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_sequence_defines.svh|/home/vlad/tools/eda/mentor/questasim-10.2b_x64/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/tlm1/uvm_tlm_imps.svh|/home/vlad/tools/eda/mentor/questasim-10.2b_x64/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_tlm_defines.svh|/home/vlad/tools/eda/mentor/questasim-10.2b_x64/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_printer_defines.svh|/home/vlad/tools/eda/mentor/questasim-10.2b_x64/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_object_defines.svh|/home/vlad/tools/eda/mentor/questasim-10.2b_x64/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_phase_defines.svh|/home/vlad/tools/eda/mentor/questasim-10.2b_x64/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_message_defines.svh|/home/vlad/tools/eda/mentor/questasim-10.2b_x64/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_version_defines.svh|/home/vlad/tools/eda/mentor/questasim-10.2b_x64/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/uvm_macros.svh|top.sv|dut_top.sv|tb.sv|sif_bfm.sv|sif_pkg.sv|
+R12
+R13
+R14
+!s100 k^foeYi8A]fh^FRCeDmVe1
+!s105 dut_top_sv_unit
+!i10b 1
+!s85 0
+!i111 0
+vsif
+R7
+r1
+31
+IeFHYX^9?^;1KIk[5nKo8C2
+R4
+R26
+R27
+R28
+L0 8
+R11
+R29
+R30
+R31
+R13
+!s100 UNI2Do?2f6?kNgTANJ@fe0
+!s85 0
+!i10b 1
+!i111 0
+Ysif_bfm
+R5
+R7
+r1
+!s85 0
+31
+IIF9UHKVPma0eoj4bVG:kh2
+S1
+R4
+w1566478178
+8sif_bfm.sv
+Fsif_bfm.sv
+L0 1
+R11
+R20
+R21
+R22
+R23
+R24
+R25
+!s100 Q9]VU_Pi<>4WGKQlVhz:Z1
+!s105 sif_bfm_sv_unit
+!i10b 1
+!i111 0
+Xsif_pkg
+R5
+R6
+Via21726C>iKeZ6C@48mX<1
+r1
+31
+Iia21726C>iKeZ6C@48mX<1
+S1
+R4
+w1566992540
+Z35 8sif_pkg.sv
+Z36 Fsif_pkg.sv
+R19
+Z37 F/home/vlad/tools/eda/mentor/questasim-10.2b_x64/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_version_defines.svh
+Z38 F/home/vlad/tools/eda/mentor/questasim-10.2b_x64/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_message_defines.svh
+Z39 F/home/vlad/tools/eda/mentor/questasim-10.2b_x64/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_phase_defines.svh
+Z40 F/home/vlad/tools/eda/mentor/questasim-10.2b_x64/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_object_defines.svh
+Z41 F/home/vlad/tools/eda/mentor/questasim-10.2b_x64/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_printer_defines.svh
+Z42 F/home/vlad/tools/eda/mentor/questasim-10.2b_x64/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_tlm_defines.svh
+Z43 F/home/vlad/tools/eda/mentor/questasim-10.2b_x64/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/tlm1/uvm_tlm_imps.svh
+Z44 F/home/vlad/tools/eda/mentor/questasim-10.2b_x64/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_sequence_defines.svh
+Z45 F/home/vlad/tools/eda/mentor/questasim-10.2b_x64/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_callback_defines.svh
+Z46 F/home/vlad/tools/eda/mentor/questasim-10.2b_x64/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_reg_defines.svh
+Z47 F/home/vlad/tools/eda/mentor/questasim-10.2b_x64/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_deprecated_defines.svh
+Ftb_classes/sif_monitor_config.svh
+Ftb_classes/sif_agent_config.svh
+Ftb_classes/env_config.svh
+Ftb_classes/sif_seq_item.svh
+Ftb_classes/random_sequence.svh
+Ftb_classes/sif_driver.svh
+Ftb_classes/sif_monitor.svh
+Ftb_classes/xbus_monitor.svh
+Ftb_classes/wbus_monitor.svh
+Ftb_classes/slave_with_memory.svh
+Ftb_classes/sif_agent.svh
+Ftb_classes/scoreboard.svh
+Ftb_classes/coverage.svh
+Ftb_classes/ref_mem.svh
+Ftb_classes/env.svh
+Ftb_classes/sif_test.svh
+L0 1
+R11
+R20
+R21
+R22
+R23
+R24
+R25
+!s85 0
+!i10b 1
+!s100 2G3mVzB4=V^llb[FO?1Xh2
+!i111 0
+Xsif_pkg_sv_unit
+R5
+IVSg4Len_b]KW@RCR1[02N3
+VVSg4Len_b]KW@RCR1[02N3
+S1
+R4
+w1565079347
+R35
+R36
+L0 7
+R11
+r1
+31
+R12
+R13
+R14
+!s107 sif_macros.svh|tb_classes/sif_seq_item.svh|/home/vlad/tools/eda/mentor/questasim-10.2b_x64/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_deprecated_defines.svh|/home/vlad/tools/eda/mentor/questasim-10.2b_x64/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_reg_defines.svh|/home/vlad/tools/eda/mentor/questasim-10.2b_x64/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_callback_defines.svh|/home/vlad/tools/eda/mentor/questasim-10.2b_x64/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_sequence_defines.svh|/home/vlad/tools/eda/mentor/questasim-10.2b_x64/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/tlm1/uvm_tlm_imps.svh|/home/vlad/tools/eda/mentor/questasim-10.2b_x64/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_tlm_defines.svh|/home/vlad/tools/eda/mentor/questasim-10.2b_x64/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_printer_defines.svh|/home/vlad/tools/eda/mentor/questasim-10.2b_x64/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_object_defines.svh|/home/vlad/tools/eda/mentor/questasim-10.2b_x64/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_phase_defines.svh|/home/vlad/tools/eda/mentor/questasim-10.2b_x64/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_message_defines.svh|/home/vlad/tools/eda/mentor/questasim-10.2b_x64/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_version_defines.svh|/home/vlad/tools/eda/mentor/questasim-10.2b_x64/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src/uvm_macros.svh|top.sv|sif_bfm.sv|sif_pkg.sv|
+!s110 1565079533
+!s100 `V3OfCRb2Q88Y9S@6Fk201
+!s108 1565079533.298421
+!i10b 1
+!i103 1
+!s85 0
+!i111 0
+vtb
+R5
+R6
+DXx4 work 7 sif_pkg 0 22 2Si27JcANocF0lVhObV7H0
+R32
+I1K@K86z5eg0JYB`]8cBl01
+R7
+S1
+R4
+w1566205931
+8tb.sv
+Ftb.sv
+R19
+R37
+R38
+R39
+R40
+R41
+R42
+R43
+R44
+R45
+R46
+R47
+Z48 Fsif_macros.svh
+L0 2
+R11
+r1
+31
+R33
+R34
+R12
+R13
+R14
+!s100 ZeJ=IOi6VBMiU1BMma^8Y3
+!s105 tb_sv_unit
+!i10b 1
+!s85 0
+!i111 0
+vtop
+R5
+R6
+R15
+R16
+R7
+r1
+31
+I1lBeJ4TFLd?C@547c]]Eo1
+R8
+S1
+R4
+R17
+R9
+R10
+L0 10
+R11
+R20
+R21
+R22
+R23
+R24
+R25
+!s85 0
+!s100 ^X==Yk>ecIDIl3m]<eT512
+!i10b 1
+!i111 0
+Ttop_optimized
+VJigSoQ724e[H0Ij06FAQQ3
+R1
+o+acc +cover=sbfec+sif(rtl).
+ntop_optimized
+R3
+R4
+!s110 1565174864
+Xtop_sv_unit
+R5
+R6
+R15
+Vl_G2I>0Ph3A[B`T^=P]]a0
+r1
+31
+Il_G2I>0Ph3A[B`T^=P]]a0
+S1
+R4
+R17
+R9
+R10
+R19
+R37
+R38
+R39
+R40
+R41
+R42
+R43
+R44
+R45
+R46
+R47
+R48
+R18
+L0 3
+R11
+R20
+R21
+R22
+R23
+R24
+R25
+!s85 0
+!s100 2lZHfVmVJDPLek?l?FWI]2
+!i10b 1
+!i103 1
+!i111 0
+vzzbind_to_bbox_implicitzz_gTjhIof4z7D9iPaz3
+I`oom=BZ71Za54ECmzfe@D1
+R7
+S1
+R4
+w1566374495
+8/home/vlads/Work/sif/work/_temp/zzbind_to_bbox_implicitzz_gTjhIof4z7D9iPaz3.sv
+F/home/vlads/Work/sif/work/_temp/zzbind_to_bbox_implicitzz_gTjhIof4z7D9iPaz3.sv
+8binding_module.sv
+R18
+L0 1
+R11
+r1
+31
+R2
+nzzbind_to_bbox_implicitzz_g@tjh@iof4z7@d9i@paz3
+!s110 1566375753
+!s100 E8H]QF?cLXDl0Ofjo8jCm3
+!s105 binding_module_sv_unit
+!s85 0

@@ -1,0 +1,14 @@
+INSERT OR REPLACE INTO mainfiles (auxid,fileid,duname,name,size,time,flags) VALUES (5,1,'@_opt3','voptx77b7z',8192,strftime('%s','now'),259);
+INSERT OR REPLACE INTO meta (key,value1,value2) VALUES ('page_inserts',5,IFNULL((SELECT value2 FROM meta WHERE key='page_inserts' AND value1=5), 0)+1);
+INSERT OR REPLACE INTO meta (key,value1,value2) VALUES ('page_inserts',5,IFNULL((SELECT value2 FROM meta WHERE key='page_inserts' AND value1=5), 0)+1);
+INSERT OR REPLACE INTO meta (key,value1,value2) VALUES ('page_inserts',5,IFNULL((SELECT value2 FROM meta WHERE key='page_inserts' AND value1=5), 0)+1);
+INSERT OR REPLACE INTO meta (key,value1,value2) VALUES ('page_inserts',5,IFNULL((SELECT value2 FROM meta WHERE key='page_inserts' AND value1=5), 0)+1);
+INSERT OR REPLACE INTO meta (key,value1,value2) VALUES ('page_inserts',5,IFNULL((SELECT value2 FROM meta WHERE key='page_inserts' AND value1=5), 0)+1);
+INSERT OR REPLACE INTO meta (key,value1,value2) VALUES ('page_inserts',5,IFNULL((SELECT value2 FROM meta WHERE key='page_inserts' AND value1=5), 0)+1);
+INSERT OR REPLACE INTO meta (key,value1,value2) VALUES ('page_inserts',5,IFNULL((SELECT value2 FROM meta WHERE key='page_inserts' AND value1=5), 0)+1);
+INSERT OR REPLACE INTO meta (key,value1,value2) VALUES ('page_inserts',5,IFNULL((SELECT value2 FROM meta WHERE key='page_inserts' AND value1=5), 0)+1);
+INSERT OR REPLACE INTO meta (key,value1,value2) VALUES ('page_inserts',5,IFNULL((SELECT value2 FROM meta WHERE key='page_inserts' AND value1=5), 0)+1);
+UPDATE mainfiles SET time=strftime('%s','now'),size=74144,flags=259 WHERE auxid=5 AND fileid=1;
+INSERT OR REPLACE INTO meta (key,value1,value2) VALUES ('page_inserts',5,IFNULL((SELECT value2 FROM meta WHERE key='page_inserts' AND value1=5), 0)+1);
+INSERT OR REPLACE INTO mainfiles (auxid,fileid,duname,name,size,time,flags) VALUES (5,2,'@_opt3','voptwzyek9',64,strftime('%s','now'),259);
+INSERT OR REPLACE INTO meta (key,value1,value2) VALUES ('page_inserts',5,IFNULL((SELECT value2 FROM meta WHERE key='page_inserts' AND value1=5), 0)+1);

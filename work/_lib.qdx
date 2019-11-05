@@ -1,0 +1,2 @@
+INSERT OR REPLACE INTO mainfiles (auxid,fileid,duname,name,size,time,flags) VALUES (4,13,'_temp','vlog43ydag',297,strftime('%s','now'),267);
+INSERT OR REPLACE INTO meta (key,value1,value2) VALUES ('page_inserts',4,IFNULL((SELECT value2 FROM meta WHERE key='page_inserts' AND value1=4), 0)+1);
